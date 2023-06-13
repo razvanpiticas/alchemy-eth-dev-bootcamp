@@ -1,3 +1,7 @@
+## My Approach
+![image](https://github.com/razvanpiticas/alchemy-eth-dev-bootcamp/assets/5879344/e5749c34-d064-4984-96f2-e9bc345fc200)
+
+
 ## ECDSA Node
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
