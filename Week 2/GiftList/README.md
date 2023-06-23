@@ -1,3 +1,7 @@
+## My Approach
+![image](https://github.com/razvanpiticas/alchemy-eth-dev-bootcamp/assets/5879344/e6767da7-736a-4877-9b7d-b30836b68659)
+
+
 # Gift List
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
